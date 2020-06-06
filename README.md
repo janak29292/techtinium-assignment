@@ -7,7 +7,9 @@ python resource.py
 ```
 and input the data in a format such as:
 
+```
 Capacity of 350 units for 1 Hour
+```
 
 when prompted for input
 
